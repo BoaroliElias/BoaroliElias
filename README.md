@@ -1,4 +1,4 @@
-### Hi there, What’s up? 👋
+### Hi there, what’s up? 👋
 
 - 🔭 I’m currently working in back-end development
 - 🌱 I’m currently learning Java, Framework Spring, Angular, Typescript, PL/SQL
